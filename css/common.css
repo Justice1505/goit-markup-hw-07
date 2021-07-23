@@ -34,7 +34,7 @@ body {
   letter-spacing: 0.03em;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.logo1 {
+.footer-dsg__adress-block__logo1 {
   color: var(--accent-color);
 }
 .logo:hover,
@@ -102,7 +102,7 @@ body {
   color: var(--under-color);
 }
 
-.logo2 {
+.footer-dsg__adress-block__logo2 {
   text-decoration: none;
   font-family: var(--secondary-font);
   font-weight: 700;
@@ -115,11 +115,11 @@ body {
 .under {
   background-color: var(--bg-hf);
 }
-.under-contacts {
+.footer-dsg__contacts__our-contacts {
   list-style: none;
 }
 
-.under-street,
+.footer-dsg__contacts__street,
 .under-mail,
 .under-phone {
   text-decoration: none;
